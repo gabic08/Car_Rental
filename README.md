@@ -12,4 +12,7 @@ If you do not complete everything necessary, the car cannot be rented.<br>![imag
 If all the fields are filled in, the car can be rented; also, to be able to decide what color you would like the car to have when you rent it, you can see images with the car in different colors:<br>
 ![image](https://user-images.githubusercontent.com/102962523/165787690-cafba6d5-62b6-4699-8f54-23aec20370fe.png)<br>
 
-<br><br>Rented cars appear in a section of the menu bar. These are stored in a string, so they reset when the program is closed. In the future I will use a database to store this data.
+<br><br>Rented cars appear in a section of the menu bar. These are stored in a string, so they reset when the program is closed. In the future I will use a database to store this data.<br>
+![image](https://user-images.githubusercontent.com/102962523/165788513-5c6a2065-f7b9-482e-a702-d5f11e9564a0.png)<br>
+<br><br>Sorry if some content is not translated, I might have missed it :))
+

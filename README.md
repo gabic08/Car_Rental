@@ -14,5 +14,5 @@ If all the fields are filled in, the car can be rented; also, to be able to deci
 
 <br><br>Rented cars appear in a section of the menu bar. These are stored in a string, so they reset when the program is closed. In the future I will use a database to store this data.<br><br>
 ![image](https://user-images.githubusercontent.com/102962523/165788838-95537bae-d519-46cd-bf6a-cf3f684265da.png)<br><br>
-<br><br>Sorry if some content is not translated, I might have missed it :))
+<br><br>Sorry if some content is not translated in english, I might have missed it :))
 
